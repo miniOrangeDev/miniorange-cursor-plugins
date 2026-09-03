@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "wordpress": {
+      "url": "https://gateway.miniorange.ai/v2/mcp"
+    }
+  }
+}

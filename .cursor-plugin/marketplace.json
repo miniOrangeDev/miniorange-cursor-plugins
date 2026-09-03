@@ -1,0 +1,18 @@
+{
+  "name": "miniorange-cursor-plugins",
+  "owner": {
+    "name": "miniOrange",
+    "email": "info@xecurify.com"
+  },
+  "metadata": {
+    "description": "Cursor Marketplace plugins published by miniOrange",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "mcp-server-for-wordpress",
+      "source": "./plugins/mcp-server-for-wordpress",
+      "description": "Connect Cursor to your WordPress site via the miniOrange MCP gateway."
+    }
+  ]
+}

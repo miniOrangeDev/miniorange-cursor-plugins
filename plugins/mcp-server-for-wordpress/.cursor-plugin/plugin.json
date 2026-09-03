@@ -1,0 +1,13 @@
+{
+  "name": "mcp-server-for-wordpress",
+  "displayName": "MCP Server for WordPress",
+  "version": "0.1.0",
+  "description": "Connect your WordPress site to Cursor via the miniOrange MCP gateway. Cursor can use the abilities exposed by your WordPress Abilities API to perform actions on your WordPress site.",
+  "author": {
+    "name": "miniOrange",
+    "email": "info@xecurify.com"
+  },
+  "license": "MIT",
+  "keywords": ["wordpress", "mcp", "mcp-server", "wordpress-plugin", "abilities-api", "ai-agent", "oauth", "miniorange"],
+  "logo": "assets/logo.png"
+}
