@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "mcp-server-magento": {
+      "url": "https://magento.miniorange.com/mcp"
+    }
+  }
+}

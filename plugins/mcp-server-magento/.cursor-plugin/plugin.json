@@ -1,0 +1,19 @@
+{
+  "name": "mcp-server-magento",
+  "displayName": "MCP Server for Magento",
+  "version": "0.1.0",
+  "description": "Connect Cursor to your Magento store via the miniOrange MCP gateway.",
+  "author": {
+    "name": "miniOrange",
+    "email": "info@xecurify.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "magento",
+    "adobe-commerce",
+    "mcp",
+    "ecommerce",
+    "miniorange"
+  ],
+  "logo": "assets/logo.svg"
+}

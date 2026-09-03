@@ -13,6 +13,11 @@
       "name": "mcp-server-for-wordpress",
       "source": "./plugins/mcp-server-for-wordpress",
       "description": "Connect Cursor to your WordPress site via the miniOrange MCP gateway."
+    },
+    {
+      "name": "mcp-server-magento",
+      "source": "./plugins/mcp-server-magento",
+      "description": "Connect Cursor to your Magento store via the miniOrange MCP gateway."
     }
   ]
 }
