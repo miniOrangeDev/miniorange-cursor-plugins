@@ -1,0 +1,13 @@
+{
+    "name": "mcp-server-for-joomla",
+    "displayName": "MCP Server for Joomla",
+    "version": "0.1.0",
+    "description": "Connect to a Joomla site to Cursor via the miniOrange MCP gateway. Review system health, search and fetch articles, list users, check core and extension updates, inspect media, and perform other operations your connected Joomla account is permitted to perform. Every MCP call runs as the OAuth-signed-in user and is limited by Joomla ACL; site owners can disable individual tools in the admin dashboard.",
+    "author": {
+      "name": "miniOrange",
+      "email": "info@xecurify.com"
+    },
+    "license": "MIT",
+    "keywords": ["joomla", "mcp", "cms", "oauth", "ai-agent", "miniorange"],
+    "logo": "assets/miniorange-logo.png"
+  }
