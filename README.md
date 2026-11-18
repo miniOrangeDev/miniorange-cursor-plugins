@@ -11,3 +11,8 @@
   Cursor to a Magento 2 / Adobe Commerce store through the miniOrange MCP
   gateway (`https://magento.miniorange.com/mcp`), exposing purpose-built
   MCP tools for catalog, inventory, orders, and customers.
+
+- **[mcp-server-for-joomla](plugins/mcp-server-for-joomla)**: connects
+  Cursor to a Joomla site through the miniOrange MCP gateway
+  (`https://joomla.mcp.miniorange.ai/mcp`), letting you search articles,
+  check plugin updates, and view media details using natural language.

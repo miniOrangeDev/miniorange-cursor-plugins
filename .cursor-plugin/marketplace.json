@@ -18,6 +18,11 @@
       "name": "mcp-server-magento",
       "source": "./plugins/mcp-server-magento",
       "description": "Connect Cursor to your Magento store via the miniOrange MCP gateway."
+    },
+    {
+      "name": "mcp-server-for-joomla",
+      "source": "./plugins/mcp-server-for-joomla",
+      "description": "Connect Cursor to your Joomla site via the miniOrange MCP gateway."
     }
   ]
 }
